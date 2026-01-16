@@ -1,0 +1,59 @@
+19.32.52.691 [main] INFO  testCase.TC002_LoginTest - ****** Validating MyAccountPage ******
+19.32.52.924 [main] INFO  testCase.TC002_LoginTest - ***** Finished TC002_LoginTest ******
+19.37.55.006 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\HP\eclipse-workspace2\Qafox12\grouping.xml"
+19.37.55.421 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\HP\eclipse-workspace2\Qafox12\grouping.xml
+
+19.38.04.363 [main] INFO  testCase.TC001_AccountRegistrationTest - ***** Starting TC001_AccountRegistrationTest *****
+19.38.04.654 [main] INFO  testCase.TC001_AccountRegistrationTest - Clicked On MyAccount Link
+19.38.05.103 [main] INFO  testCase.TC001_AccountRegistrationTest - Clicked On Register Link
+19.38.05.107 [main] INFO  testCase.TC001_AccountRegistrationTest - Providing Customer Details....
+19.38.06.476 [main] INFO  testCase.TC001_AccountRegistrationTest - Validating Expected Message...
+19.38.06.534 [main] INFO  testCase.TC001_AccountRegistrationTest - ***** Finished TC001_AccountRegistrationTest *****
+19.38.17.119 [main] INFO  testCase.TC002_LoginTest - ***** Starting TC002_LoginTest ******
+19.38.17.619 [main] INFO  testCase.TC002_LoginTest - ****** Passing Login Credentials ******
+19.38.18.490 [main] INFO  testCase.TC002_LoginTest - ****** Validating MyAccountPage ******
+19.39.52.692 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\HP\eclipse-workspace2\Qafox12\test-output\testng-failed.xml"
+19.39.53.082 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\HP\eclipse-workspace2\Qafox12\test-output\testng-failed.xml
+
+19.40.01.585 [main] INFO  testCase.TC002_LoginTest - ***** Starting TC002_LoginTest ******
+19.40.02.187 [main] INFO  testCase.TC002_LoginTest - ****** Passing Login Credentials ******
+19.40.07.680 [main] INFO  testCase.TC002_LoginTest - ****** Validating MyAccountPage ******
+19.40.08.239 [main] INFO  testCase.TC002_LoginTest - ***** Finished TC002_LoginTest ******
+19.42.53.323 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\HP\eclipse-workspace2\Qafox12\master.xml"
+19.42.53.778 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\HP\eclipse-workspace2\Qafox12\master.xml
+
+19.43.02.723 [main] INFO  testCase.TC001_AccountRegistrationTest - ***** Starting TC001_AccountRegistrationTest *****
+19.43.02.900 [main] INFO  testCase.TC001_AccountRegistrationTest - Clicked On MyAccount Link
+19.43.03.502 [main] INFO  testCase.TC001_AccountRegistrationTest - Clicked On Register Link
+19.43.03.505 [main] INFO  testCase.TC001_AccountRegistrationTest - Providing Customer Details....
+19.43.05.176 [main] INFO  testCase.TC001_AccountRegistrationTest - Validating Expected Message...
+19.43.05.227 [main] INFO  testCase.TC001_AccountRegistrationTest - ***** Finished TC001_AccountRegistrationTest *****
+19.43.15.326 [main] INFO  testCase.TC002_LoginTest - ***** Starting TC002_LoginTest ******
+19.43.15.887 [main] INFO  testCase.TC002_LoginTest - ****** Passing Login Credentials ******
+19.43.16.704 [main] INFO  testCase.TC002_LoginTest - ****** Validating MyAccountPage ******
+19.44.37.681 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\HP\eclipse-workspace2\Qafox12\test-output\testng-failed.xml"
+19.44.38.085 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\HP\eclipse-workspace2\Qafox12\test-output\testng-failed.xml
+
+19.44.47.567 [main] INFO  testCase.TC002_LoginTest - ***** Starting TC002_LoginTest ******
+19.44.48.098 [main] INFO  testCase.TC002_LoginTest - ****** Passing Login Credentials ******
+19.44.48.935 [main] INFO  testCase.TC002_LoginTest - ****** Validating MyAccountPage ******
+19.44.49.047 [main] INFO  testCase.TC002_LoginTest - ***** Finished TC002_LoginTest ******
+00.29.28.026 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\HP\eclipse-workspace2\Qafox12\master.xml"
+00.29.28.738 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\HP\eclipse-workspace2\Qafox12\master.xml
+
+00.30.00.952 [main] INFO  testCase.TC001_AccountRegistrationTest - ***** Starting TC001_AccountRegistrationTest *****
+00.30.07.219 [main] INFO  testCase.TC001_AccountRegistrationTest - Clicked On MyAccount Link
+00.30.09.792 [main] INFO  testCase.TC001_AccountRegistrationTest - Clicked On Register Link
+00.30.09.816 [main] INFO  testCase.TC001_AccountRegistrationTest - Providing Customer Details....
+00.30.15.927 [main] INFO  testCase.TC001_AccountRegistrationTest - Validating Expected Message...
+00.30.17.737 [main] INFO  testCase.TC001_AccountRegistrationTest - ***** Finished TC001_AccountRegistrationTest *****
+00.30.29.970 [main] INFO  testCase.TC002_LoginTest - ***** Starting TC002_LoginTest ******
+00.30.30.632 [main] INFO  testCase.TC002_LoginTest - ****** Passing Login Credentials ******
+00.30.32.684 [main] INFO  testCase.TC002_LoginTest - ****** Validating MyAccountPage ******
+00.30.32.889 [main] INFO  testCase.TC002_LoginTest - ***** Finished TC002_LoginTest ******
+00.33.05.550 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\HP\eclipse-workspace2\Qafox12\master.xml"
